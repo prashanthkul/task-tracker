@@ -21,3 +21,7 @@ npm run server
 ```
 npm start
 ```
+
+
+Based on the tutorial from @bradtraversy
+https://www.youtube.com/watch?v=3dHNOWTI7H8
